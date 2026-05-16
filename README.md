@@ -7,6 +7,7 @@
 ## 🔭 I’m currently working on..
 - Most of ML engineering stuff; building data pipelines and training/serving models
 - Multi armed bandit, Reinforcement learning
+- Optimization(vrp, pdptw)
 ## 🌱 I’m currently learning..
 - Machine learning compilation
 - Inference optimization for llms
